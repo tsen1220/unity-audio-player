@@ -2,7 +2,7 @@
 
 Play audio with fantastic effects.
 
-<image src='https://github.com/tsen1220/unity-audio-player/blob/master/intro.gif' alt=''>
+<image src='https://github.com/tsen1220/unity-audio-player/blob/master/IntroImage/intro.gif' alt=''>
 
 Audio player can render unique effects by FFT BlackmanHarris.
 
@@ -12,5 +12,5 @@ Audio player can render unique effects by FFT BlackmanHarris.
 
 You can play specific audioClip by SpectrumManager.
 
-<image src='' alt=''>
+<image src='https://github.com/tsen1220/unity-audio-player/blob/master/IntroImage/intro.png' alt=''>
 
